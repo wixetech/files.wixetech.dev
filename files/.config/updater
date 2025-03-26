@@ -5,8 +5,7 @@
             "a": "module.shortcut",
             "b": "d",
             "c": [
-                "https://files.wixetech.dev/.updater/.modules/module.website.dll",
-                "<module>"
+                "https://files.wixetech.dev/.updater/.modules/module.website.dll"
             ]
         }
     ]
