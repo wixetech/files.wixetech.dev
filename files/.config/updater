@@ -2,10 +2,11 @@
     "a": 0,
     "b": [
         {
-            "a": "module.shortcut0",
+            "a": "module.shortcuts",
             "b": "d",
             "c": [
-                "https://files.wixetech.dev/.updater/.modules/module.website.dll"
+                "https://files.wixetech.dev/.updater/.modules/module.shortcuts.dll",
+                "<assembly>"
             ]
         }
     ]
